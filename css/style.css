@@ -1,0 +1,72 @@
+
+.theme-bg{background-color: #FF4800;}
+.text-bg{
+    color: #FF4800;
+}
+.nav-padding .nav-link{
+    padding: 30px 20px !important;
+    color: black;
+    transition: 0.5s;
+    font-weight: bolder;
+}
+.nav-padding .nav-link:hover{
+    background-color: #FF4800;
+    color: white;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.banner-section{
+    background-image: url("../img/header.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.banner-content{
+    margin-top:50px;
+}
+.bg-section{
+    background-color: #f2f2f4;
+}
+.carosuel-img-one{
+    border-radius: 143px;
+    padding: 100px;
+    position: relative;
+    bottom: 98px;
+    right: 100px;
+}
+.carousel-text{
+    position: relative;
+    bottom: 258px;
+    right: 11px;
+}
+.card-size{
+    height: 220px;
+}
+.bg-affordable{
+    background-color: #F2F2F4;
+}
+.card-affordable-size{
+    height: 449px;
+}
+.user-jpg{
+    border-radius: 302px;
+    padding: 281px;
+    position: relative;
+    bottom: 256px;
+    right: 270px;
+}
+.user-text{
+    position:relative;
+    bottom: 581px;
+    left: 42px;
+}
+.user-height{
+    height: 660px;
+}
+.user-text-2{
+    position: relative;
+    bottom: 581px;
+    left: 1px;
+}
